@@ -36,6 +36,21 @@ h1 {
     border-radius: 8px;
     margin-bottom: 16px;
     background-color: #bbb;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.input {
+    text-align: end;
+    font-size: 40px;
+}
+
+.preview {
+    text-align: end;
+    font-size: 24px;
 }
 
 .keyboard {
